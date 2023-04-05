@@ -32,6 +32,9 @@ $ npm install
 
 # serve at http://localhost:3000
 $ npm run dev
+
+# run tests
+$ npm run test
 ```
 
 ### User credentials:
