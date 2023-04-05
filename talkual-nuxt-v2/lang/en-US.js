@@ -4,6 +4,11 @@ export default {
     identifier: 'Identifier',
     password: 'Password',
     login_btn: 'Login',
+    errors: {
+      identifier_is_required: 'Identifier field is required',
+      password_is_required: 'Password field is required',
+      password_min_length: 'Password must contain more than 6 characters',
+    }
   },
   product: {
     buy_btn: 'Buy',
