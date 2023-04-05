@@ -27,6 +27,9 @@ $ npm run start
 # Go to talkaul-backend project
 $ cd talkual-nuxt-v2
 
+# Copy .env.example to .env in the root project
+$ cp .env.example .env
+
 # install dependencies
 $ npm install
 
