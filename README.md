@@ -46,6 +46,6 @@ $ npm run test
 
 ### Improvements that can be made:
 - Use nuxt 3 instead nuxt 2
-- Replace Pinia (Official Store Library) by Vuex for state management
+- Replace Vuex by Pinia (Official Store Library) for state management
 - Replace Buefy by any other ui library because it does not have support for Vue 3
 - Use TypeScript over Javascript 
